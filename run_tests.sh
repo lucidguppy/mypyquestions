@@ -1,1 +1,1 @@
-mypy ./foo
+mypy -v -s -p foo
